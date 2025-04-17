@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://usfantom.io"><img src="https://img.shields.io/badge/website-usfantom.io-000000?style=for-the-badge&logo=web" alt="Website Badge" /></a>
+  <a href="https://usfantom.com"><img src="https://img.shields.io/badge/website-usfantom.io-000000?style=for-the-badge&logo=web" alt="Website Badge" /></a>
   <a href="https://twitter.com/UsFantom"><img src="https://img.shields.io/badge/follow-%40UsFantom-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter Badge" /></a>
   <a href="https://github.com/UsFantom"><img src="https://img.shields.io/github/followers/UsFantom?label=GitHub&style=for-the-badge" alt="GitHub Badge" /></a>
 </p>
@@ -92,9 +92,9 @@ We're looking for:
 
 Stay connected:
 
-- 🌐 Website: [https://usfantom.io](https://usfantom.io)
+- 🌐 Website: [https://usfantom.io](https://usfantom.com)
 - 🐦 Twitter: [@UsFantom](https://twitter.com/UsFantom)
-- 📬 Email: [hello@usfantom.io](mailto:hello@usfantom.io)
+- 📬 Email: [hello@usfantom.com](mailto:hello@usfantom.com)
 
 ---
 
