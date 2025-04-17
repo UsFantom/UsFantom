@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/UsFantom/UsFantom/assets/logo.png" alt="UsFantom Logo" width="150" />
+  <img src="https://github.com/UsFantom/UsFantom/blob/main/assets/logo_small.png" alt="UsFantom Logo" width="150" />
 </p>
 
 <h1 align="center">UsFantom</h1>
